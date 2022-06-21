@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4f4bbc-92b5-4382-ad84-e8d2de40de17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addpackage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addsubcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addverimages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addverimages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/addverimages/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/bottom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/chstatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/deletecategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/deletepackage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/deletesubcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/left.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/loginform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/packimages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/packimages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/packimages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/subcatimages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/subcatimages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/subcatimages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/top.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/topforlogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/updatecategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/updatepackage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/updatesubcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/updateuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/viewcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/viewenquiry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/viewpackage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/viewsubcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bottom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/travel.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enquiry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/T13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/TWlogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/o-TRAVEL-facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/projectpics/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/projectpics/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/projectpics/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/social-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/t8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylecss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subcat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ApUEPLNHzoGWGdcZcc0ByYxlrr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4f4bbc-92b5-4382-ad84-e8d2de40de17" name="Default Changelist" comment="" />
+      <created>1655705914022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655705914022</updated>
+      <workItem from="1655705920519" duration="2331000" />
+      <workItem from="1655709930164" duration="1241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
